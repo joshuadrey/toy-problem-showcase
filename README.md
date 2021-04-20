@@ -3,7 +3,6 @@
 # Project Summary
 
 In this project we will create a react application that solves computer science toy problems and showcases them in a feed. The file structure has already been created for us but none of the functionality works. At the end of this project you should have an understanding of the following topics:
-
 * Components
 * State
 * Import / Export
